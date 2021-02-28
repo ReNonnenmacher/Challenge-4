@@ -1,0 +1,126 @@
+body {
+  font-family: 'Karla', sans-serif;
+  font-size: 1rem;
+  background-color: hsl(204, 43%, 93%);
+  text-align: center;
+}
+
+h1 {
+  text-align: left;
+  color:  #2cbab8;
+  font-size: 1.3rem;
+  margin-top: 8px;
+  margin-bottom: 25px;
+  font-weight: 700;
+}
+
+h2 {
+  color: hsl(71, 73%, 54%);
+  font-size: 1rem;
+  text-align: left;
+  margin-bottom: 12px;
+}
+
+h3 {
+  text-align: left;
+  color: white;
+  margin-top: 0;
+  font-size: 1rem;
+}
+
+p {
+  text-align: left;
+  font-size: 0.8rem;
+  color: #c1f0f0;
+
+}
+.full-access{
+  margin-top: 0;
+  margin-bottom: 26.8px;
+  font-size: 0.9rem;
+}
+.button {
+   border-radius: 5px;
+  cursor: pointer;
+   color: #E5EFF5;
+   width: 210px;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #C0DF34;
+   box-shadow:  0 5px 15px #22918f;
+   border: solid;
+   border-color: hsl(179, 62%, 43%);
+
+
+
+}
+.per-month{
+  color: #30cfcc;
+  font-size: 0.9rem;
+  margin-left: 5px;
+}
+.price-p{
+  margin-bottom: 5px;
+}
+.price{
+  font-weight: 700;
+  font-size: 1.7rem;
+  color: hsl(204, 43%, 93%);
+}
+.header-p {
+  color: hsl(218, 22%, 67%);
+  line-height: 1.5rem;
+  margin-top: 0;
+}
+
+.bottom-right-p{
+  font-size: 0.8rem;
+  line-height: 1.1rem;
+}
+.card {
+  border-radius: 2%;
+  display: inline-block;
+  background-color: white;
+  position: relative;
+  top: 200px;
+  height: 370px;
+  padding: 30px;
+  box-shadow:  5px 5px 35px #c8ddea, 5px 0px 15px #c8ddea;
+}
+
+.header {
+  background-color: white;
+  width: 510px;
+}
+
+.bottom-cards {
+  width: 225px;
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  padding: 30px;
+  height:170px;
+
+}
+
+.bottom-left {
+  background-color: hsl(179, 62%, 43%);
+  border-bottom-left-radius: 2%;
+  left: 0;
+}
+
+.bottom-right {
+  background-color: #2cbab8;
+  border-bottom-right-radius: 2%;
+  right: 0;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 480px;
+}
+.attribution{
+  color: black;
+}
